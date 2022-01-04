@@ -1,0 +1,84 @@
+@font-face {
+    font-family: cloister;
+    src: url(fonts/CloisterBlack.ttf);
+}
+
+html, body {
+    padding: 0;
+    margin: 0 auto;
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: cloister;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;   
+}
+
+h1, h2, h3, h4 { font-weight: normal; }
+
+h1 { margin: 0; }
+h1 { font-size: 2em; }
+h2 { font-size: 1.6em; }
+
+header { padding: 2em 0; }
+
+
+.torn {
+    height: 9px;
+    min-height: 9px;
+}
+
+.torn.bw {
+    background: url(images/torn-bw.png);
+}
+
+.torn.wb {
+    background: url(images/torn-wb.png);
+}
+
+.torn.tb {
+    background: url(images/torn-tb.png);
+}
+
+
+.hero {
+    overflow: hidden;
+    background: white url(images/emojis.png);
+}
+
+.hero-image {
+    height: 400px;
+}
+
+.hero img {
+    padding-top: 50px;
+    width: 340px;
+}
+
+
+.download img { 
+    padding: 2.5em; 
+    width: 150px;
+}
+
+
+.link-list { 
+    font-size: 1.3em; 
+}
+
+
+footer {
+    font-family: cloister;
+    font-size: 1.1em;
+    padding: 2em 0;
+}
+
+
+section.privacy article {
+    margin: auto;
+    text-align: left;
+    max-width: 500px;
+}
