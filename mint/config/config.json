@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8B004F501c3248aa331609322175A804B3F53dFC",
+  "SCAN_LINK": "https://etherscan.io/token/0x8B004F501c3248aa331609322175A804B3F53dFC",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Emoji Nft Club",
+  "SYMBOL": "Emoji",
+  "MAX_SUPPLY": 2100000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/emojinftclub",
+  "SHOW_BACKGROUND": true
+}
